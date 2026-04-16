@@ -1,5 +1,4 @@
-const DB = "https://chat-app-2261c-default-rtdb.firebaseio.com/" ;
-
+const DB = https://chat-app-2261c-default-rtdb.firebaseio.com/ ; 
 function decodeBase64(str) {
     return atob(str);
 }
